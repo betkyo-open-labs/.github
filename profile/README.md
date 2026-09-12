@@ -1,5 +1,7 @@
 # Betkyo
 
+![How the Journal verifies a number](cover.webp)
+
 Betkyo is a crypto casino built in Tokyo around provably fair original games. This organisation publishes the parts of that claim you can check yourself:
 
 - **[provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier)** — recompute any round from the revealed server seed, your client seed, the nonce and the cursor, with the same byte-to-number construction the site's browser verifier uses.
